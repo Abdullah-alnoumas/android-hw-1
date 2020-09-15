@@ -1,0 +1,23 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+     
+     Licence();
+         
+     
+         
+  
+     }
+
+   public static void Licence () {
+        String name="Abdullah";
+      int age = 16 ;
+      if (age>18)
+      System.out.println("nice job Abdullah u will get the drivers licence");
+      else 
+      System.out.println("we are sorry abdullah u are still young to get ur drivers licence");
+   }
+    
+    
+    
+}
